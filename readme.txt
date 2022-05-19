@@ -4,4 +4,8 @@
 
 ・seido1.pyでSHxxxe.sYYMM.txtを読み取る
 ・seido2.pyでCSVデータをテキストに変換
-・seido.py（seidoX.py）でRMSEなどを計算し、プロッtpする
+・seido.py（seidoX.py）でRMSEなどを計算し、プロット。
+
+地点コードの一般化などはできていないのでやれたら尚良い
+
+
